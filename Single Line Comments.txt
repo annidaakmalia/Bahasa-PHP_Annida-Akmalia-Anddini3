@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+//A comment before the code
+// Outputs a welcome message:
+echo "Welcome Home!";
+//A comment at the end of a line
+echo "Welcome Home!"; // Outputs a welcome message
+?>
+ 
+</body>
+</html>
